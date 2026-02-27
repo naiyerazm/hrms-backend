@@ -1,0 +1,192 @@
+Department Code,Department Name
+442,,ADG Sectt.
+124,Admin,Administration Deptt.
+303,AHBO,Ahmedabad Branch Office
+530,Ayush,Ayush Department
+304,,BHBO
+306,BNBL,BNBL
+305,,BNBO
+307,,BPBO
+308,,Bureau Sectt.
+422,,Canteen
+423,,CED
+501,CCPAC,Central Consumer Protection Authority Cell (CCPAC)
+312,CL-1,Central Lab-1
+517,CL-2,Central Lab-2
+524,CL,Central Laboratory
+555,CRO,Central Regional Office(CRO)
+500,CSMD,Certification Surveillance & Monitoring Department (CSMD)
+478,CHBO,Chandigarh Branch Office
+424,,CHD
+531,CNBO,Chennai Branch Office
+426,,CMD-I
+427,,CMD-II
+428,,CMD-III
+327,cnbo,CNBO
+328,cnbo,CNBO
+498,CMED,Complaints Management & Enforcement Department (CMED)
+502,CAD,Consumer Affairs Department
+465,,Coordination Cell
+473,CRO,Coordination officer (CRO)
+474,ERO,Coordination officer (ERO)
+475,NRO,Coordination officer (NRO)
+477,SRO,Coordination officer (SRO)
+476,WRO,Coordination officer (WRO)
+329,,CTBO
+330,,CVO Sectt.
+435,,DDGA Sectt.
+430,,DDG (Cert.) Sectt.
+340,,DDGC Secretariat
+505,"DDG (CSM, FMC & MSC) Sectt.","DDG (CSM, FMC & MSC) Sectt."
+341,,DDGE Secretariat
+527,DDG,"DDG (FMC, HM & Registration)"
+522,DDG Sectt,"DDG (FMC,MSC,HM and Registration) Sectt. "
+494,,DDGF Sectt.
+331,,DDG (HM) Sectt.
+526,DDG,"DDG (IR & TIS, MSC and SCM)"
+523,DDG Sectt,"DDG (ITS, PRT and TN&M) Sectt."
+431,,DDG (Labs) Sectt.
+552,DDG(MSC),DDG(MSC)
+432,,DDG (MSCD) Sectt
+343,,DDGN Secretariat
+551,DDG(PnC),DDG(PnC)
+463,,DDG (PRT) Sectt.
+344,,DDGS Secretariat
+462,DDG (Std-II),DDG Standardization II Sectt.
+479,DDG (Std-I),DDG Standardization I Sectt.
+345,,DDGW Secretariat
+495,DG Sectt,DG Sectt
+480,,DHBO
+447,,Distribution Sec.
+439,,DLBO-I
+440,,DLBO-II
+351,,DPBO
+556,ERO,Eastern Region Office(ERO)
+545,EED,Environment and Ecology Department
+352,ERL,ERL
+441,,Establishment Deptt.
+444,,ETD
+446,,FAD
+443,,Finance Deptt.
+358,,FMCD
+360,,FRBO
+538,GDBO,Gandhidham
+416,,GBOL
+544,GDBO,GDBO
+445,,General Services Deptt.
+363,GHBL,GHBL
+362,,GHBO
+364,,GZBO
+448,Hindi,Hindi Department
+449,,HMD
+540,HMO,HMO (CRO)
+546,HMO (ERO),HMO (ERO)
+537,HMO,HMO (NRO) - Mohali
+533,HMO,HMO (SRO) -I  Chennai
+539,HMO,HMO (SRO) -II Chennai
+535,HMO,HMO (WRO) - I  Mumbai 
+417,,HPBO
+418,,HQ-Accounts Deptt.
+450,,HQ-HRD
+367,HRBO,HRBO
+469,,HUBO
+369,HYBL,HYBL
+550,HYBO,HYBO
+542,HYBO,Hyderabad
+503,i-Care,i-Care
+451,,IR&TISD
+452,,ITSD
+508,JPBO-2,Jaipur Branch Office-2
+372,,JDBO
+549,JKBO,JKBO
+373,JKBO-RAL ,JKBO-RAL 
+374,,JPBO
+376,,KOBO
+375,KKBO-1,Kolkata Branch Office 1
+511,KKBO-2,Kolkata Branch Office 2
+377,,Legal Deptt.
+378,,LITD
+379,,LKBO
+380,,LPPD
+515,LRMD,LRMD
+381,,LSC
+512,MDBO,Madurai Branch Office
+470,,Maintenance Section
+382,MED,MED
+383,,MHD
+384,,MSCD
+534,MSCO,MSCO (CRO) -I  New Delhi
+548,MSCO (ERO),MSCO (ERO)
+536,MSCO,MSCO (ERO)-II  Kolkata
+532,MSCO,MSCO (ERO) -I Kolkatta
+543,MSCO,MSCO (SRO)
+547,MSCO (WRO),MSCO (WRO)
+385,,MSD
+386,,MTD
+387,,MUBO-I
+388,,MUBO-II
+389,,NGBO
+390,,NITS
+506,NOBO,Noida Branch Office
+557,NRO,Northern Region Office(NRO)
+391,NRL ,NRL 
+453,,On Deputation
+454,,On Lien
+514,PPBO,Panipat Branch Office
+518,PTBOL,Patna Branch Office Lab
+458,,PBOL
+393,,PCD
+394,,PGD
+521,PnC,Planning and Coordination Department
+466,,Planning Cell
+395,,PMWD
+396,,PNBO
+455,,Posted in Ministry
+497,PRBO,PRBO
+496,PRBO,PRBOI
+464,,PRTD
+398,PTBL,PTBL
+541,PTBO,PTBO(Patna Branch Office)
+471,,Publication and Printing
+504,P&S,Publication and Sales Department
+516,PRD,Public Relations Department
+402,RJBO,Rajkot 
+507,RJBO-2,Rajkot Branch Office 2
+401,,Registration Deptt
+461,,R & I
+483,,ROBO-ADMIN
+487,,ROBO-CERTIFICATION
+484,,ROBO-FINANCE AND ACCOUNTS
+489,,ROBO-HALLMARKING
+488,,ROBO-LABORATORY
+490,,ROBO-MSCD
+485,,ROBO-OTHERS
+481,,ROBO-SALES
+482,,ROBO-STANDARDS FORMULATION
+486,,ROBO-TECH SUPPORT
+403,,RPBO
+404,,Sales
+459,,Security Sec.
+520,SSD,Service Sector Department
+558,SRO,Southern Region Office(SRO)
+554,"SRO, Chennai",Southern Regoinal Office
+493,,SPPD
+406,SRL ,SRL 
+467,,SSD-I
+468,,SSD-II
+499,SCMD,Standards Coordination & Montoring Department (SCMD)
+509,SUBO,Surat Branch Office
+492,,TESTING
+528,TXD,Textile Engineering Department
+472,,TN&MD
+491,,TRAINING
+529,TED,Transport Engineering Department
+408,,TXD
+525,Vadodra,Vadodra Branch Office
+353,,Vigilance
+519,VJBO,VIJAYAWADA BRANCH OFFICE
+409,,VZBO
+553,WRO,Western Regional Office
+559,WRO,Western Region Office(WRO)
+410,,WRD
+411,WRL,WRL
