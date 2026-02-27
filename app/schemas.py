@@ -25,7 +25,7 @@ class EmployeeResponse(EmployeeBase):
     id: int
 
     class Config:
-        orm_mode = True
+        from_attributes = True
 
 
 # Attendance Schemas
@@ -41,7 +41,7 @@ class AttendanceResponse(AttendanceBase):
     id: int
 
     class Config:
-        orm_mode = True
+        from_attributes = True
 
 
 # Optional: Employee with attendance
