@@ -22,7 +22,7 @@ database_url = os.getenv("DATABASE_URL")
 
 # Replace the sqlalchemy.url in alembic.ini dynamically
 if database_url:
-    config.set_main_option("sqlalchemy.url", database_url)
+    config.set_main_option("sqlalchemy.url", os.getenv("DATABASE_URL"))
 else:
     raise ValueError("DATABASE_URL not found in .env file")
 
